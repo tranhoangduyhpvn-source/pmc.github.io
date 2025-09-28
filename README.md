@@ -3,7 +3,7 @@ Chúng tôi cam kết bảo mật thông tin người dùng, Không chia sẻ ch
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Xóa dữ liệu người dùng</title>
+    Xóa dữ liệu người dùng
 </head>
 <body>
     <h2>Chính sách xóa dữ liệu người dùng</h2>
